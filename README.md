@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-madosh-mcp-itsm-badge.png)](https://mseep.ai/app/mcp-mirror-madosh-mcp-itsm)
+
 # MCP ITSM Integration
 
 A Model Context Protocol (MCP) implementation for IT Service Management (ITSM) tools, designed to work with Smithery.
